@@ -1,2 +1,1 @@
-name = "umanga"
-name
+# this file is for you to doodle around while trying to learn python from the above files i have provided.
